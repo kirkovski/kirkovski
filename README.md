@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kirkovski
-- 👀 I’m interested in using python/C# to do anything...
-- 🌱 I’m currently learning python/Unity C#/game dev
-- 💞️ I’m looking to collaborate on ...python/C#
+- 👀 I’m interested in using Javascript/C# to do anything...
+- 🌱 I’m currently learning Unity Game Dev/Web Dev
+- 💞️ I’m looking to collaborate on ...C#/Javascript
 - 📫 How to reach me ...not yet sure lol this is my first
 
 <!---
