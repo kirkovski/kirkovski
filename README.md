@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @kirkovski
-- 👀 I’m interested in using Javascript/C# to do anything...
-- 🌱 I’m currently learning Unity Game Dev/Web Dev
-- 💞️ I’m looking to collaborate on ...C#/Javascript
-- 📫 How to reach me ...not yet sure lol this is my first
+- 👋 Hi, I’m Kirk Wuo
+- 👀 I’m interested in data analysis. 
+- 🌱 I’m currently taking Google Data Analytics Professional Certificate program.
+- 💞️ I’m looking to collaborate on data analysis projects
 
 <!---
 kirkovski/kirkovski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
