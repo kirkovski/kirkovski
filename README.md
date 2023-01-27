@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Kirk Wuo
-- 👀 I’m interested in data analysis. 
-- 🌱 I’m currently taking Google Data Analytics Professional Certificate program.
+- 👋 Hi, I’m Chih-Chung Wuo but you can call me Kirk.
+- 🌱 I am a data analyst.
+- 👀 I am interested in anything relating to data analytics.
 - 🕵🏼 I’m looking to collaborate on data analysis projects.
-- 💞️ What I am also interested are Unity games, front-end web dev with Javascript.
+- 💞️ I am a casual gamer and also a international freight professional with decades of experience in logistics industry.
 
 <!---
 kirkovski/kirkovski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
