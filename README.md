@@ -3,6 +3,7 @@
 - 👀 I am interested in anything relating to data analytics.
 - 🕵🏼 I’m looking to collaborate on data analysis projects.
 - 💞️ I am a casual gamer and also a international freight professional with decades of experience in logistics industry.
+- 💎 I obtained my Google Data Analytics Professional Certification in January 2023.
 
 <!---
 kirkovski/kirkovski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
