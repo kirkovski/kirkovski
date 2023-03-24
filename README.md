@@ -6,6 +6,8 @@
 #### Here is a list of my analysis report on Kaggle:
 [Cyclistic Bike Usage Analysis: using R](https://www.kaggle.com/code/chihchungwuo/cyclistic-bike-usage-analysis)
 
+-------------------------------------------------------------------------------
+
 #### Here is a list of dashboard built using Tableau Public:
 [Reasons Why Business Not Adopting Advanced Technology](https://public.tableau.com/views/ReasonsWhyBusinessNotAdoptingAdvancedTech/DashboardforReasonThatBusinessDoNotAdoptAdvancedTech?:language=en-US&:display_count=n&:origin=viz_share_link)
 
