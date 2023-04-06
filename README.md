@@ -9,8 +9,11 @@
 -------------------------------------------------------------------------------
 
 #### Here is a list of dashboards built using Tableau Public:
-[Reasons Why Business Not Adopting Advanced Technology](https://public.tableau.com/views/ReasonsWhyBusinessNotAdoptingAdvancedTech/DashboardforReasonThatBusinessDoNotAdoptAdvancedTech?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Global Retail Dashboard (using Kaggle dataset)](https://public.tableau.com/app/profile/kirk1022/viz/GlobalRetailSalesKaggleData/RetailDashboard)
 
+[Google's Stock Chart for Investor](https://public.tableau.com/app/profile/kirk1022/viz/GooglesStockChartforInvestor/GoogleStocks)
+
+[Reasons Why Business Not Adopting Advanced Technology](https://public.tableau.com/views/ReasonsWhyBusinessNotAdoptingAdvancedTech/DashboardforReasonThatBusinessDoNotAdoptAdvancedTech?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 <!---
 kirkovski/kirkovski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
