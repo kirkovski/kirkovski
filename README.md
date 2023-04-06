@@ -10,10 +10,14 @@
 
 #### Here is a list of dashboards built using Tableau Public:
 [Global Retail Dashboard (using Kaggle dataset)](https://public.tableau.com/app/profile/kirk1022/viz/GlobalRetailSalesKaggleData/RetailDashboard)
+✅R was used to clean and sample original dataset which was too large for our task. Output CSV for Tableau Public to import.
 
 [Google's Stock Chart for Investor](https://public.tableau.com/app/profile/kirk1022/viz/GooglesStockChartforInvestor/GoogleStocks)
+✅Google Sheet was used to get data from Google Finance.
+✅Tableau Public then sync with the Google Sheet to get data.
 
 [Reasons Why Business Not Adopting Advanced Technology](https://public.tableau.com/views/ReasonsWhyBusinessNotAdoptingAdvancedTech/DashboardforReasonThatBusinessDoNotAdoptAdvancedTech?:language=en-US&:display_count=n&:origin=viz_share_link)
+✅Data was obtained from Canadian government's Open Data website. 
 
 <!---
 kirkovski/kirkovski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
