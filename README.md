@@ -9,6 +9,10 @@
 -------------------------------------------------------------------------------
 
 #### Here is a list of dashboards built using Tableau Public:
+
+[Canadian Seafood Export](https://public.tableau.com/views/CanadianSeafoodExport/MostValuableSeafoodDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+<br>✅Multiple dashboards navigation.
+
 [Global Retail Dashboard (using Kaggle dataset)](https://public.tableau.com/app/profile/kirk1022/viz/GlobalRetailSalesKaggleData/RetailDashboard)
 <br>✅R was used to clean and sample original dataset which was too large for our task. Output CSV for Tableau Public to import.
 
