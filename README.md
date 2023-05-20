@@ -4,7 +4,7 @@
       - Detailed List of achievements: https://www.coursera.org/account/accomplishments/professional-cert/FC3DPWYT8USE  
 - 🚀 Currently enrolled in MIT Professional Education Applied Data Science Program (to complete by Mid Aug 2023)  
       - You can read more about this amazing program here: https://professional.mit.edu/course-catalog/applied-data-science-program  
-- 👨🏻 I have been working in freight logistic industry for 18+ years now and still going!  
+- 👨🏻 I have been working in freight logistic industry for 18+ years and still going strong!
 - 💎 Educations: B.Sc. in General Science and received my Google Data Analytics Professional Certification in January 2023.  
 
 #### Here is a list of my analysis on Kaggle:
