@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Chih-Chung Wuo but you can call me Kirk.
-- 🌱 I am a Google certified data analyst:
-      Credential: https://www.credly.com/badges/10c5a68a-e43d-460c-8719-ded431127847
-      Detailed List of achievement: https://www.coursera.org/account/accomplishments/professional-cert/FC3DPWYT8USE
-- 🚀 Currently enrolled in MIT Professional Education Applied Data Science Program (to complete by Mid Aug 2023)\
-      You can read more about this amazing program here: https://professional.mit.edu/course-catalog/applied-data-science-program
-- 👨🏻 I have been working in freight logistic industry for 18+ years now and still going!
-- 💎 Educations: B.Sc. in General Science and received my Google Data Analytics Professional Certification in January 2023.
+- 👋 Hi, I’m Chih-Chung Wuo but you can call me Kirk.  
+- 🌱 I am a Google certified data analyst:  
+      Credential: https://www.credly.com/badges/10c5a68a-e43d-460c-8719-ded431127847  
+      Detailed List of achievements: https://www.coursera.org/account/accomplishments/professional-cert/FC3DPWYT8USE  
+- 🚀 Currently enrolled in MIT Professional Education Applied Data Science Program (to complete by Mid Aug 2023)  
+      You can read more about this amazing program here: https://professional.mit.edu/course-catalog/applied-data-science-program  
+- 👨🏻 I have been working in freight logistic industry for 18+ years now and still going!  
+- 💎 Educations: B.Sc. in General Science and received my Google Data Analytics Professional Certification in January 2023.  
 
 #### Here is a list of my analysis on Kaggle:
 [Cyclistic Bike Usage Analysis: using R](https://www.kaggle.com/code/chihchungwuo/cyclistic-bike-usage-analysis)
