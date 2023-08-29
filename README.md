@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Chih-Chung Wuo but you can call me Chih.
 - 💥 Graduated from the MIT Professional Education Applied Data Science Program in August 2023.
-    Proud of our team's achievement in securing first place at an MIT hackathon during the program.
-      - Credential: https://eportfolio.mygreatlearning.com/chih-chung-wuo
-      - Detailed of this program: https://www.mygreatlearning.com/mit-data-science-program?utm_source=eportfolio&gl_source=Linkedin&gl_campaign=Eportfolio
+    Proud of our team's achievement in securing first place at an MIT hackathon during the program.  
+      - Credential: https://eportfolio.mygreatlearning.com/chih-chung-wuo  
+      - Detailed of this program: https://www.mygreatlearning.com/mit-data-science-program?utm_source=eportfolio&gl_source=Linkedin&gl_campaign=Eportfolio  
 - 🌱 I am a Google certified data analyst:  
       - Credential: https://www.credly.com/badges/10c5a68a-e43d-460c-8719-ded431127847  
       - Detailed List of achievements: https://www.coursera.org/account/accomplishments/professional-cert/FC3DPWYT8USE  
