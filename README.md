@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chih-Chung Wuo but you can call me Chih.
+- 👋 Hi, I’m Chih-Chung Wuo but you can call me Chih or Kirk.
 - 💥 Graduated from the MIT Professional Education Applied Data Science Program in August 2023.
     Proud of our team's achievement in securing first place at an MIT hackathon during the program.  
       - Credential: https://eportfolio.mygreatlearning.com/chih-chung-wuo  
