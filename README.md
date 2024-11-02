@@ -16,6 +16,8 @@
 -------------------------------------------------------------------------------
 
 #### Here is a list of dashboards built using Tableau Public:
+[Cyclistic Bike-Share Rental](https://public.tableau.com/views/CyclisticRideSharing_17296376772410/MainDash?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+<br>✅Multiple dashboards navigation
 
 [Canadian Seafood Export](https://public.tableau.com/views/CanadianSeafoodExport/MostValuableSeafoodDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 <br>✅Multiple dashboards navigation.
