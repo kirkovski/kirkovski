@@ -7,7 +7,7 @@
 - 🌱 I am a Google certified Business Intelligence Analyst:  
       - Credential: https://www.credly.com/badges/acfdbe53-c1db-463a-a336-f05826e20120/linked_in_profile
       - Detailed List of achievements: https://www.coursera.org/account/accomplishments/professional-cert/RD07RG3O2LOB
-- 🌱 I am a Google certified data analyst:  
+- 🌱 I am a Google certified Data Analyst:  
       - Credential: https://www.credly.com/badges/10c5a68a-e43d-460c-8719-ded431127847  
       - Detailed List of achievements: https://www.coursera.org/account/accomplishments/professional-cert/FC3DPWYT8USE  
 - 👨🏻 I have been working in freight logistic industry for 18+ years and still going strong!
