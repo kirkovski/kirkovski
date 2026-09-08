@@ -51,6 +51,7 @@ GROUP BY
     "Crash Location",
     "Motorcycle Involved",
     "Heavy Truck Involved";
+```
 
 **Database Container Spec (`docker-compose.yml`)**
 
@@ -72,6 +73,8 @@ services:
 volumes:
   pgdata:
 ```
+
+</details>
 
 </details>
 
