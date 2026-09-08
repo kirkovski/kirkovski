@@ -25,8 +25,12 @@
 <br>✅Full end-to-end BI pipeline: 835k+ records stored in a Dockerized PostgreSQL database, aggregated via complex SQL queries in DBeaver, and visualized in Tableau Public.
 <br>✅Uncovered the "Surrey-Vancouver Paradox": proving suburban arterial grids in Surrey experience a 43.6% higher casualty rate than Vancouver despite lower total crash volume.
 <br>✅Features synchronized cross-filtering, interactive year slicers, executive KPI cards, and road user mode risk analysis.
+
 <details>
-<summary><b>🔍 View SQL Data Mart Query (PostgreSQL / DBeaver)</b></summary>
+<summary><b>🔍 View SQL Data Mart Query & Docker Configuration</b></summary>
+<br>
+
+**Analytical Aggregation Query (PostgreSQL / DBeaver)**
 
 ```sql
 -- ICBC Road Safety Data Services
