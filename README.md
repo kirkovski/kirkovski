@@ -52,9 +52,9 @@ GROUP BY
     "Motorcycle Involved",
     "Heavy Truck Involved";
 
-Database Container Spec (docker-compose.yml)
-YAML
+**Database Container Spec (`docker-compose.yml`)**
 
+```yaml
 version: '3.8'
 services:
   icbc_postgres:
@@ -71,6 +71,9 @@ services:
 
 volumes:
   pgdata:
+```
+
+</details>
 
 [Cyclistic Bike-Share Rental](https://public.tableau.com/views/CyclisticRideSharing_17296376772410/MainDash?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 <br>✅Multiple dashboards navigation
