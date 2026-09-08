@@ -25,6 +25,48 @@
 <br>✅Full end-to-end BI pipeline: 835k+ records stored in a Dockerized PostgreSQL database, aggregated via complex SQL queries in DBeaver, and visualized in Tableau Public.
 <br>✅Uncovered the "Surrey-Vancouver Paradox": proving suburban arterial grids in Surrey experience a 43.6% higher casualty rate than Vancouver despite lower total crash volume.
 <br>✅Features synchronized cross-filtering, interactive year slicers, executive KPI cards, and road user mode risk analysis.
+<details>
+<summary><b>🔍 View SQL Data Mart Query (PostgreSQL / DBeaver)</b></summary>
+
+```sql
+-- ICBC Road Safety Data Services
+-- Analytical Mart: Aggregating 835k+ raw records across temporal, spatial, and risk dimensions
+
+SELECT 
+    "Date Of Loss Year",
+    "Municipality Name",
+    "Crash Location",
+    "Motorcycle Involved",
+    "Heavy Truck Involved",
+    COUNT(*) AS "Total Crashes",
+    SUM(CASE WHEN "Casualty Severity" = 'Y' THEN 1 ELSE 0 END) AS "Total Victims"
+FROM icbc_crashes_raw
+GROUP BY 
+    "Date Of Loss Year",
+    "Municipality Name",
+    "Crash Location",
+    "Motorcycle Involved",
+    "Heavy Truck Involved";
+
+Database Container Spec (docker-compose.yml)
+YAML
+
+version: '3.8'
+services:
+  icbc_postgres:
+    image: postgres:15
+    container_name: icbc_safety_db
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-postgres}
+      POSTGRES_DB: ${POSTGRES_DB:-icbc_analytics}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD} # Injected locally via untracked .env file
+    ports:
+      - "5433:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+volumes:
+  pgdata:
 
 [Cyclistic Bike-Share Rental](https://public.tableau.com/views/CyclisticRideSharing_17296376772410/MainDash?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 <br>✅Multiple dashboards navigation
