@@ -20,6 +20,12 @@
 -------------------------------------------------------------------------------
 
 #### Here is a list of dashboards built using Tableau Public:
+
+[ICBC Road Safety & Casualty Severity Intelligence](https://public.tableau.com/views/ICBCRoadSafetyCasualtySeverityIntelligence/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+<br>✅Full end-to-end BI pipeline: 835k+ records stored in a Dockerized PostgreSQL database, aggregated via complex SQL queries in DBeaver, and visualized in Tableau Public.
+<br>✅Uncovered the "Surrey-Vancouver Paradox": proving suburban arterial grids in Surrey experience a 43.6% higher casualty rate than Vancouver despite lower total crash volume.
+<br>✅Features synchronized cross-filtering, interactive year slicers, executive KPI cards, and road user mode risk analysis.
+
 [Cyclistic Bike-Share Rental](https://public.tableau.com/views/CyclisticRideSharing_17296376772410/MainDash?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 <br>✅Multiple dashboards navigation
 
