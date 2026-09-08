@@ -72,7 +72,7 @@ services:
 
 volumes:
   pgdata:
-
+```
 
 </details>
 
